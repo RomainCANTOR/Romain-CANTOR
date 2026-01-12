@@ -23,13 +23,7 @@
 ---
 
 ### 🚀 Mes principaux projets
-
-Développement d'une solution web complète pour la gestion d'un Bureau des Étudiants.
-
-* **Administration :** Gestion avancée des rôles, modération des utilisateurs, dashboard administrateur.
-* **Événements :** Système complet de création d'événements, upload d'images, gestion des inscriptions (individuelles et groupes) et génération de listes PDF.
-* **Utilisateurs :** Espaces profils sécurisés, fil d'actualités avec gestion d'articles, calendrier interactif.
-
+(A compléter)
 ---
 
 ### 📊 Statistiques GitHub
