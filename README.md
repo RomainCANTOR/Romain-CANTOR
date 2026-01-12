@@ -23,9 +23,9 @@
 ---
 
 ### 🚀 Mes principaux projets
-(A compléter)
----
 
+---
+(A compléter) 
 ### 📊 Statistiques GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&locale=fr&hide_border=true" alt="Romain's Stats" height="180" />
