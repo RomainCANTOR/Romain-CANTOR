@@ -2,7 +2,7 @@
 
 # Salut, je suis Romain CANTOR ! 👋
 
-### 🎓 Étudiant en 2ème année de BUT Informatique @ IUT d'Aix-Marseille
+### 🎓 Étudiant en 2ème année de BUT Informatique à l'IUT d'Aix-Marseille, je suis à la recherche d'un stage de 10 semaines
 ### 📍 Basé à Aix-en-Provence, France
 
 ---
